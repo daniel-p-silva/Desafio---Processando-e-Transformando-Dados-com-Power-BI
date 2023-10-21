@@ -1,7 +1,5 @@
 # Desafio-Processando-e-Transformando-Dados-com-Power-BI
 
-# Processamento de Dados Simplificado com Power BI - Meu Desafio do Módulo 3
-
 ## Descrição do Desafio
 Neste projeto, o objetivo foi criar um banco de dados MySQL e hospedá-lo na plataforma Azure. Em seguida, integrar os dados com o Power BI para extrair, transformar e limpar informações relevantes. O foco final foi utilizar esses dados para criar um relatório eficaz usando as funcionalidades do Power BI.
 
